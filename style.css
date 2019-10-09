@@ -1,0 +1,62 @@
+.steam.body {
+  background-color: #1d2837;
+}
+
+
+.ui.borderless.topmenu.menu {
+  background-color: #171a21;
+  color: #b8b6b4;
+  border: none;
+  box-shadow: none;
+  height: 100px;
+  padding-left: 200px;
+  margin: 0px;
+}
+
+
+.ui.install.label {
+  background-color: #5c7e10;
+}
+
+.text {
+  color: #b8b6b4;
+}
+
+.md.text {
+  color: aliceblue;
+}
+
+.blue.text {
+  color: #7bbfef;
+}
+
+.middle-background {
+  background: url("https://steamcdn-a.akamaihd.net/steam/clusters/frontpage/e8c8dc6e00812f08f5226b99/page_bg_english.png") center;
+  height: 420px;
+  color: aliceblue;
+}
+
+.large-background-image {
+  position: absolute;
+  top: -9999px;
+  bottom: -9999px;
+  left: -9999px;
+  right: -9999px;
+  margin: auto;
+}
+
+.ui.navbar.menu {
+  color: #c6d4df;
+  background-color: rgba( 62, 126, 167, 0.8);
+
+}
+.ui.bot.grid {
+  padding-top: 330px;
+}
+
+
+h3 {
+  font-family: "Motiva Sans", Sans-serif;
+
+}
+
